@@ -8,6 +8,7 @@ package javaapplication6;
 /**
  *
  * @author dimitris
+ * and others
  */
 public class JavaApplication6 {
 
