@@ -12,6 +12,7 @@ package javaapplication6;
  */
 public class JavaApplication6 {
 // ariss
+    // allagh gia branch 1.2 aris
     /**
      * @param args the command line arguments
      */
