@@ -11,7 +11,7 @@ package javaapplication6;
  * @see  test
  */
 public class JavaApplication6 {
-// aris
+// ariss
     /**
      * @param args the command line arguments
      */
