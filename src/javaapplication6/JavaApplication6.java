@@ -8,7 +8,7 @@ package javaapplication6;
 /**
  * @author leuteris
  * @author dimitris
- * @see  test
+ * @see  1.3 branch
  */
 public class JavaApplication6 {
 // ariss
