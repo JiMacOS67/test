@@ -6,9 +6,10 @@
 package javaapplication6;
 
 /**
- *
+ * @author leuteris
  * @author dimitris
- * and others ...
+ * @see  test
+ * @one more
  */
 public class JavaApplication6 {
 
