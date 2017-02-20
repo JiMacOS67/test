@@ -19,4 +19,6 @@ public class JavaApplication6 {
         // TODO code application logic here
     }
     /*  dokimi */
+    
+    /* alllagi gia 1.1 */
 }
